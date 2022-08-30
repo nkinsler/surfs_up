@@ -32,7 +32,7 @@ Overall temperatures are fairly consistent between June and December indicating 
 
 Given the risk inclement weather plays in surfing and eating ice cream, running an analysis on precipitation for June and December is useful information to have.  With the query ran, it was determined that December generally has .08 more rain on average than June.  In addition, the potential for significant rainfall is higher in December with a max rainfall of 6.42 compared to 4.43. 
 
-2.Service Station
+2. Service Station
 
 ![June_Active_Temp](https://github.com/nkinsler/surfs_up/blob/main/Resources/June_Active_Temp.png)!
 
