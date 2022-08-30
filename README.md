@@ -1,8 +1,6 @@
 # surfs_up
 
 ## Resources
-
-## Resources
 - Data Source: [hawaii.sqlite]()
 - Python: [SurfsUp_Challenge]()
 
@@ -12,6 +10,9 @@ Provide an analysis of temprature data for the months of June and December in Oa
 
 ## Results
 
+![June_Temp]()!
+
+![Dec_Temp]()!
 
 1.
 2.
@@ -21,7 +22,12 @@ Provide an analysis of temprature data for the months of June and December in Oa
 ## Summary
 
 
+
 ### Additional Queries
+
+![June_Prcp]()!
+
+![Dec_Prcp]()!
 
 1. Percepitation
 2.
